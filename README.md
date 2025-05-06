@@ -2,6 +2,9 @@
 
 **Live Demo:** 👉 [Try Financely here](https://financely-nine.vercel.app/sign-in) 🎉
 
+## 📄 Full PRD & Technical Docs
+👉 [View the Financely PRD & Technical Overview on Notion](https://noisy-pansy-2e8.notion.site/Financely-1eab9c27045980579544ce5e4f96ed55)  
+
 **Financely** is a modern banking platform demo built with Next.js, Appwrite, Plaid, and Dwolla. It allows users to sign up, link bank accounts, view transactions, and manage their finances in a secure, developer-friendly environment. 💼🔒
 
 ---
@@ -62,7 +65,3 @@ MIT
 - 🎨 How to provide a smooth user experience even when working with sandbox/mock data.
 
 ---
-
-## 📄 Full PRD & Technical Docs
-
-👉 [View the Financely PRD & Technical Overview on Notion](https://noisy-pansy-2e8.notion.site/Financely-1eab9c27045980579544ce5e4f96ed55)  
